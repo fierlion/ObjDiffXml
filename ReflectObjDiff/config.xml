@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Obj Diff Config</comment>
+<entry key="Ignore1">Timestamp</entry>
+<entry key="Ignore0">Dog</entry>
+</properties>
